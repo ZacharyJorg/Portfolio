@@ -18,6 +18,11 @@ function App() {
       </div>
 
       <button>Get Started</button>
+
+      <div className="biography">
+      <p className="aboutMe">Hello, I'm Zachary Jorgensen, I'm a self-taught web developer. I've become extremely dedicated and completely captured by the entire process of self-taught programming. With a background of DIY and artistry, programming has been able to entertain my creativity as well as my problem solving skills. The skills i've culmenated have shaped me into a well rounded developer ready to start my journey with the industry.</p>
+      </div>
+      
       <Navbar />
     </>
   )
